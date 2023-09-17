@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 29 02:11:29 ALMT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0150-b013-a5f8-000006d51628 
+on database directory C:\Users\Raj_raj\Desktop\ringPoll\ringPoll\pollDB with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/Raj_raj/Desktop/ringPoll/ringPoll/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_20-b26
+user.dir=C:\Users\Raj_raj\Desktop\ringPoll\ringPoll
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
